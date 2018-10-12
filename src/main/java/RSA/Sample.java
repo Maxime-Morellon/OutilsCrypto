@@ -15,7 +15,7 @@ import javax.crypto.Cipher;
 
         - soit en utilisant des clés différentes (chiffrement asymétrique), une clé publique et une clé privée : l'algorithme utilisé est RSA.*/
 
-
+        https://www.javacube.fr/chiffrer-dechiffrer-simplement-avec-aes-en-java/ => à voir
 
         // RSA
 public class Sample {
